@@ -10,9 +10,14 @@ This Google Chrome Extension sorts the Google Hangouts tab in GMail by status. T
 * *Hangouts* in the middle
 * *Offline* contacts at the bottom, sorted from A-Z
 
-
 ![alt text](hangouts.png "Example")
 
 The sort order for Online contacts and Hangouts remain the same (last opened) while the offline contacts are sorted from A-Z so they can be found easier.
+
+## Issues
+
+If there's an issue with the extension, please go to the issue tab of this repository and search for an existing issue. If none exist that describe your issue, feel free to create a new issue.
+
+## License
 
 This software is MIT licensed. See the [LICENSE.md](LICENSE.md) file for details on what that means.
